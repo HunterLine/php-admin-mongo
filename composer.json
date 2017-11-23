@@ -1,0 +1,6 @@
+{
+    "name": "hunterline/php-admin-mongo",
+    "require": {
+        "mongodb/mongodb": "1.0.*"
+    }
+}
